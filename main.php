@@ -1,7 +1,7 @@
 <?php
     phpinfo();
     echo "<br>";
-    define('name','Welcome to my Website');
+    define('name','Welcome ');
     echo name;
     echo "<br>";
     print_r ($_SERVER)  ;
